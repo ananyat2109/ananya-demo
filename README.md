@@ -1,4 +1,4 @@
 # ananya-demo
 my first git repository
 <br>
-Author- Ananya Tripathi
+Author- Ananya
